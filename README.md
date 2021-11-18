@@ -50,6 +50,35 @@
     * Function
       * Example
       * Quiz 
+* [Pandas](https://github.com/Kanyawesr/DWDM21/blob/main/Data102Chapter2.ipynb)
+    * Import pandas
+    * คำสั่ง .head() .tail()
+    * Box plot
+      * Time series plot 
+  * [Visualization](https://github.com/Kanyawesr/DWDM21/blob/main/Data_Visualization.ipynb)
+    * Box plot
+    * Scatter plot
+    * Plot
+    * Bar chart
+      * Grouped barchart
+      * Stacked barchart
+    * Histogram  
+  * [Distance_Numpy](https://github.com/Kanyawesr/DWDM21/blob/main/Distance_Numpy.ipynb)
+    * Numpy Array
+      * สร้าง Numpy array
+      * สร้าง matrix เริ่มต้น
+      * สร้าง matrix random
+      * indexing & slicing
+      * Useful functions
+      * วนลูปเอง
+      * Quiz กลุ่ม
+    * Distance Matrix
+      * Euclidean distance
+      * Distance function
+      * Manhattan distance
+      * Quiz 6
+      * HW11
+      * Distance of binary value 
 * บทที่ 3 Data preprocessing
 * บทที่ 4 Data warehousing and on-line analytical processing
 * บทที่ 5 Association rules
