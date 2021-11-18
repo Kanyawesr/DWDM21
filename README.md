@@ -80,8 +80,43 @@
       * HW11
       * Distance of binary value 
 * บทที่ 3 Data preprocessing
+  * [Lecture Data preprocessing](https://github.com/Kanyawesr/DWDM21/blob/main/Chapter%203%20Handling%20Missing.pdf) 
+  * [Data Preprocessing](https://github.com/Kanyawesr/DWDM21/blob/main/Data_Preprocessing_(Chapter_3).ipynb)
+    * Meta data
+    * ชี้ข้อมูลในตาราง
+      * แบบธรรมดา
+      * แบบ .lioc[]
+    * Missing Values
+      * Handling Missing Value 1
+      * Handling Missing Value 1.5
+      * Handling Missing Value 2
+      * Handling Missing Value 3
+      * Handling Missing Value 4
+      * Handling Missing Value 5
+    * Pandas 
+      * select data by values [PD]
+        * สร้าง list ของ boolen
+        * นำ list ของ boolen มาเลือกในตาราง
+        * ใช้ & (and) และ (or) ในการรวม list ของ boolean
+      * Quiz 4 + HW
+      * Outlier
+      * Quiz 5
+      * Quiz กลุ่ม  
+        * Pandas'looping(iterrows)
+      * การรวมตาราง
+        * รวม 2 ตาราง
+        * เลือกเฉพาะ column ที่ต้องการมาแปะ
+        * Group by (pandas)
+      * HW + Quiz
+        * [PD] save ตารางไปใช้ที่อื่น
+        * [PD] การสร้างตาราง
 * บทที่ 4 Data warehousing and on-line analytical processing
+  * [Lecture Data warehousing and on-line analytical processing](https://github.com/Kanyawesr/DWDM21/blob/main/Data%20Cube%20%26%20OLAP.pdf)
+    * Data Warehouse
+    * Data Cubes
+    * Typical OLAP Operations 
 * บทที่ 5 Association rules
+  * [Lecture Association rules](https://github.com/Kanyawesr/DWDM21/blob/main/Association%20rules.pdf) 
 * บทที่ 6 Classification
 * บทที่ 7 Clustering
 * MiniExam
