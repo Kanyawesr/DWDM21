@@ -129,7 +129,56 @@
       * Frequence Itemsets
     * Quiz 7   
 * บทที่ 6 Classification
+  * [Lecture Chapter 6 Classification](https://github.com/Kanyawesr/DWDM21/blob/main/Lecture%20Decision-Tree.pdf)
+    * การสร้างโมเดลแบบมีผู้สอน/ไม่มีผู้สอน
+    * Classification
+    * Decision Tree
+    * การเลือก Attribute
+    * [Decision Tree คำนวณมือ](https://github.com/Kanyawesr/DWDM21/blob/main/Decision-Tree.pdf)
+  * [Lecture Decision Tree](https://github.com/Kanyawesr/DWDM21/blob/main/Precision%20%26%20Recall%20%26%20F-measures.pdf)
+    * ตัดแต่งกิ่งต้นไม้
+  * [Decision Tree](https://github.com/Kanyawesr/DWDM21/blob/main/Chapter_7_Classification_(Decision_Tree).ipynb)
+    * Load Data
+    * Train Model
+    * Evaluation
+    * Advanced Tree
+    * HW
+  * Lecture K-Nearest Neighbor
+    * [Naive Bayes Classifier](https://github.com/Kanyawesr/DWDM21/blob/main/Precision%20%26%20Recall%20%26%20F-measures.pdf)     
+    * [Lazy Learner:Instance-Based Mathods](https://github.com/Kanyawesr/DWDM21/blob/main/Naive%20Bayes%20%26%20KNN.pdf)
+    * [K-nearest neighbors approach](https://github.com/Kanyawesr/DWDM21/blob/main/Naive%20Bayes%20%26%20KNN.pdf)
+  * [k-Nearest Neighbor & Neural Networks](https://github.com/Kanyawesr/DWDM21/blob/main/Chapter_7_Classification_(KNN_NN).ipynb)
+    * Load Data
+    * Split Data
+    * Train Model
+    * Retain & Evaluate
+    * Neural Network
+  * Lecture Neural Networks & Evaluation 
+    * [Neural Network](https://github.com/Kanyawesr/DWDM21/blob/main/Chapter%209%20Neural%20Network.pdf)
+    * เพอร์เซปตรอน
+    * [Classifier Evaluation Metrics](https://github.com/Kanyawesr/DWDM21/blob/main/Precision%20%26%20Recall%20%26%20F-measures.pdf)
+    * [Evaluation](https://github.com/Kanyawesr/DWDM21/blob/main/Chapter_7_Classification_(Evaluation).ipynb)  
 * บทที่ 7 Clustering
+  * [Lecture Clustering](https://github.com/Kanyawesr/DWDM21/blob/main/Chapter%2010.pdf)
+    * K-means
+    * ตัวอย่างการคำนวณหาค่า K-means
+    * Dendrogram
+    * Clustering Validation & Assessment
+    * Measuring Clustering Quality
+    * Internal Measures : BetaCV Measure
+  * Clustering(https://github.com/Kanyawesr/DWDM21/blob/main/Chapter_8_Clustering.ipynb)
+    * K-means
+      * Generate Data
+      * Explore data
+      * Clustering
+        * import
+        * define
+        * train - predict
+        * 3 clusters
+        * 4 clusters
+        * 5 clusters  
+    * Color Quantization
+      * การนับจำนวนสี         
 * [MiniExam](https://github.com/Kanyawesr/DWDM21/blob/main/MiniExam.ipynb)
 * [Group project](https://github.com/Kanyawesr/DWDM21/blob/main/Project_DWDM.ipynb)
   * Project กลุ่ม
