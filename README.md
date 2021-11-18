@@ -166,7 +166,7 @@
     * Clustering Validation & Assessment
     * Measuring Clustering Quality
     * Internal Measures : BetaCV Measure
-  * Clustering(https://github.com/Kanyawesr/DWDM21/blob/main/Chapter_8_Clustering.ipynb)
+  * [Clustering](https://github.com/Kanyawesr/DWDM21/blob/main/Chapter_8_Clustering.ipynb)
     * K-means
       * Generate Data
       * Explore data
