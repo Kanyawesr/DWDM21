@@ -116,7 +116,18 @@
     * Data Cubes
     * Typical OLAP Operations 
 * บทที่ 5 Association rules
-  * [Lecture Association rules](https://github.com/Kanyawesr/DWDM21/blob/main/Association%20rules.pdf) 
+  * [Lecture Association rules](https://github.com/Kanyawesr/DWDM21/blob/main/Association%20rules.pdf)
+  * [Reduced_marketbasket](https://github.com/Kanyawesr/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb)
+    * ความหมายของ Association Rule
+      * Market Basket Analysis 
+    * จัดการข้อมูลสินค้าที่ถูกยกเลิก
+    * Basic Concepts
+      * Fequence Pattern
+      * Association Rule 
+    * Efficient Pattern Mining Mathod
+      * Apriori
+      * Frequence Itemsets
+    * Quiz 7   
 * บทที่ 6 Classification
 * บทที่ 7 Clustering
 * MiniExam
