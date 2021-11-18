@@ -130,8 +130,8 @@
     * Quiz 7   
 * บทที่ 6 Classification
 * บทที่ 7 Clustering
-* MiniExam
-* Group project
+* [MiniExam](https://github.com/Kanyawesr/DWDM21/blob/main/MiniExam.ipynb)
+* [Group project](https://github.com/Kanyawesr/DWDM21/blob/main/Project_DWDM.ipynb)
   * Project กลุ่ม
     * รายชื่อสมาชิกในกลุ่ม
     * แหล่งที่มาของข้อมูล
