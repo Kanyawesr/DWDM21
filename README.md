@@ -29,6 +29,27 @@
     * ขั้นตอนการทำข้อมูล
     * หัวข้อที่เรียน
 * บทที่ 2 Getting to know your data
+  * [Data Objects And Attribue Types](https://github.com/Kanyawesr/DWDM21/blob/main/2.1.pdf)
+  * [Measuring Data Similarity And Dissimilarity](https://github.com/Kanyawesr/DWDM21/blob/main/Dissimilarity-distance-matrix.pdf)
+  * [Binary Distance](https://github.com/Wikanda-Hongboonmee/DWDM21/blob/main/Distance-between-Data.pdf)
+  * [Basic Python](https://github.com/Kanyawesr/DWDM21/blob/main/Data101Chapter2_1.ipynb)
+    * Basic Python
+      * Variables
+    * Casting int() float() str()
+    * Data Structure
+      * การชี้ค่าใน list (indexing)
+      * วิธีสร้าง list  แบบที่ 2 list ว่าง
+      * list slicing
+      * list + list
+      * format string
+    * Loop
+      * Nested Loop
+    * Condition (if statement)
+      * Quiz 1
+      * Homework 3
+    * Function
+      * Example
+      * Quiz 
 * บทที่ 3 Data preprocessing
 * บทที่ 4 Data warehousing and on-line analytical processing
 * บทที่ 5 Association rules
