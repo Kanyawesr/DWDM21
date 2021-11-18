@@ -4,7 +4,7 @@
 
 #### กัญญาวีร์ ศรีเทียมเงิน รหัสนักศึกษา 623020511-1
 
-### Group Name : เอกาไร้สติ
+### Group Name : เอกาไร้สติ 
 
   กัญญาวีร์ ศรีเทียมเงิน รหัสนักศึกษา 623020511-1
   
@@ -15,3 +15,15 @@
   จิราพร กลบรัตน์ รหัสนักศึกษ 623020762-6
   
   วิกานดา หงษ์บุญมี 623020764-2
+
+# สารบัญ
+
+* บทที่ 1 Introduction
+* บทที่ 2 Getting to know your data
+* บทที่ 3 Data preprocessing
+* บทที่ 4 Data warehousing and on-line analytical processing
+* บทที่ 5 Association rules
+* บทที่ 6 Classification
+* บทที่ 7 Clustering
+* MiniExam
+* Group project
