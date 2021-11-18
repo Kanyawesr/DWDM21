@@ -19,6 +19,15 @@
 # สารบัญ
 
 * บทที่ 1 Introduction
+  * [Lecture Introdution](https://github.com/Kanyawesr/DWDM21/blob/main/Chapter%201.pdf)
+    * Data Warehouse 
+    * Data Mining
+    * Why Data Mining
+    * ตัวอย่างข้อมูล
+    * การเรียกชื่อ
+    * ลักษณะภาพรวม
+    * ขั้นตอนการทำข้อมูล
+    * หัวข้อที่เรียน
 * บทที่ 2 Getting to know your data
 * บทที่ 3 Data preprocessing
 * บทที่ 4 Data warehousing and on-line analytical processing
